@@ -1,3 +1,4 @@
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -14,17 +15,17 @@ a {
 .header {
   margin: 0 auto;
   padding: 20px;
-  color: purple;
-  max-width: 350px;
-  width: 80%;
+  color: rgb(107, 0, 107);
+  max-width: 390px;
+  width: 90dvw;
 }
 
 .container {
   padding: 0px 20px;
   margin: 0 auto;
-  max-width: 350px;
+  max-width: 390px;
   height: fit-content;
-  width: 80%;
+  width: 90dvw;
 
 }
 
@@ -38,6 +39,7 @@ a {
 
 .tool_type h2 {
   margin-bottom: 10px;
+  text-transform: ;
 }
 
 
@@ -59,6 +61,7 @@ a {
   width: 100%;
   padding: 15px 10px;
   text-decoration: none;
+  font-weight: 600;
 }
 
 .tool_type_item:not(:last-child) {
@@ -70,7 +73,7 @@ a {
 }
 
 h2 {
-  color: purple;
+  color: rgb(107, 0, 107);
 }
 
 
